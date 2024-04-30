@@ -14,7 +14,7 @@ To understand more about the project read this [rubric:](https://github.com/kate
 The "Materials" folder contains a "DATA", "SCRIPT", and "ADDITIONAL RESOURCE" folder. 
 The necessary data is located in the "DATA" folder and includes both a cleaned dataset to be used for your model as well as the raw data from the General Social Survey (GSS). Helpful material including how to import the data, expamples of a Decision Tree Regression and Chi Squared test can be found in the "SCRIPT" folder. The "ADDITIONAL RESOURCE" folder contains aditional articles for motivation and background on the subject. 
 
-##References:
+## References:
 
 [1] “GSS 2021 Codebook” gss.norc.org. https://gss.norc.org/Documents/codebook/GSS%202021%20Codebook.pdf
 
